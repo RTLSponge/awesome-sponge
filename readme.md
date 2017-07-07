@@ -5,24 +5,25 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Libraries](#Libraries)
+- [Languages](#Langauges)
 
 
-## Section
+## Libraries
 
-About this section. Optional. Keep this short and focus on the list.
+Libraries that help develop better plugins.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Task Chains](https://github.com/aikar/TaskChain) Aikar's TaskChain is brilliant for scheduling on and off thread, makes animation a breeze.
 
 
-## Another Section
 
-### Subsection
+## Languages
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Plugins that allow you to load plugins from languages other then Java.
+
+### Scala
+
+- [Katrix-/KatLib](https://github.com/Katrix-/KatLib)
 
 
 ## Contribute
