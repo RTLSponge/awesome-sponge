@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Entries must be well-maintained. Most recent release must either work on Current or Previous Minecraft 'minor(x)' 1.x.y version, or SpongeAPI Major version (x.0.0)
+- Entries must either be universally useful, or have some form of WOW factor.
 
 Thank you for your suggestions!
 
