@@ -30,6 +30,8 @@ Plugins that allow you to load plugins from languages other then Java.
 
 - [NucleusPowered/Nucleus](https://github.com/NucleusPowered/Nucleus) Essential Essentials for Sponge Servers.
 - [lucko/LuckPerms](https://github.com/lucko/LuckPerms) Well maintained, User friendly, Context Aware Permissions for Sponge Servers.
+- [MinecraftPortCentral/GriefPrevention](https://github.com/MinecraftPortCentral/GriefPrevention) Sponge ~~port~~ rewrite of a self-serve protection system, uses extensive use of Permission Contexts, Sponge Tracking & Causes, and extremely extensible.
+- [FoxDenStudio/FoxGuard](https://github.com/FoxDenStudio/FoxGuard) Admin claims / region handling, splits regions from their handlers for maximum reusability. Great UI and command system.
 
 ## Contribute
 
