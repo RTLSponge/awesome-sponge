@@ -6,8 +6,8 @@
 ## Contents
 
 - [Libraries](#Libraries)
-- [Languages](#Language)
-- [Plugins](#Langauges)
+- [Languages](#Languages)
+- [Plugins](#Plugins)
 
 
 ## Libraries
@@ -18,7 +18,7 @@ Libraries that help develop better plugins.
 
 
 
-## Language
+## Languages
 
 Plugins that allow you to load plugins from languages other then Java.
 
