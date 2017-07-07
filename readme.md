@@ -24,9 +24,11 @@ Plugins that allow you to load plugins from languages other then Java.
 
 ### Scala
 
-- [Katrix-/KatLib](https://github.com/Katrix-/KatLib)
+- [Katrix-/KatLib](https://github.com/Katrix-/KatLib) Scala 1.12 dependency and basics for Sponge Plugins
 
 ## Plugins
+
+- [NucleusPowered/Nucleus](https://github.com/NucleusPowered/Nucleus) Essential Essentials for Sponge Servers.
 
 ## Contribute
 
