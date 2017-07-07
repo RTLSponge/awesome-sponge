@@ -6,7 +6,8 @@
 ## Contents
 
 - [Libraries](#Libraries)
-- [Languages](#Langauges)
+- [Languages](#Language)
+- [Plugins](#Langauges)
 
 
 ## Libraries
@@ -17,7 +18,7 @@ Libraries that help develop better plugins.
 
 
 
-## Languages
+## Language
 
 Plugins that allow you to load plugins from languages other then Java.
 
@@ -25,6 +26,7 @@ Plugins that allow you to load plugins from languages other then Java.
 
 - [Katrix-/KatLib](https://github.com/Katrix-/KatLib)
 
+## Plugins
 
 ## Contribute
 
