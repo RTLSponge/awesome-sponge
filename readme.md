@@ -29,6 +29,7 @@ Plugins that allow you to load plugins from languages other then Java.
 ## Plugins
 
 - [NucleusPowered/Nucleus](https://github.com/NucleusPowered/Nucleus) Essential Essentials for Sponge Servers.
+- [lucko/LuckPerms](https://github.com/lucko/LuckPerms) Well maintained, User friendly, Context Aware Permissions for Sponge Servers.
 
 ## Contribute
 
