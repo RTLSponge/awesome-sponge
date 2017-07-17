@@ -10,6 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Entries must be well-maintained. Most recent release must either work on Current or Previous Minecraft 'minor(x)' 1.x.y version, or SpongeAPI Major version (x.0.0)
 - Entries must either be universally useful, or have some form of WOW factor.
+- Honorable Mentions should be client side only, or server side only additions that complement Sponge servers in some way, Please do not add "Content" mods. Feel free to start an awesome-forge instead.
 
 Thank you for your suggestions!
 
